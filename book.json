@@ -1,0 +1,6 @@
+{
+    "variables": {
+        "BASE_URL": "https://111coding.github.io/books-Flutter",
+        "RAW_URL": "https://raw.githubusercontent.com/111coding/books-Flutter/master/_res"
+    }
+}
