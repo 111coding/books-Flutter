@@ -21,6 +21,7 @@
 
 - Pub.Dev publishing
     - [circle_nav_bar](https://pub.dev/packages/circle_nav_bar)
+    - [Package 제작부터 배포까지](pub_001.md)
 
 - 국방부 해커톤 샘플코드
   - [GetX + FireStore Blog](https://github.com/111coding/Flutter-GetX-Firesotre-Blog)
